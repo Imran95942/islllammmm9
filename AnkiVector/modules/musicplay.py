@@ -51,20 +51,20 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 1) Get your channel ID.
 2) Create a group with tittle: Channel Music: your_channel_id
 3) Add bot as Channel admin with full perms
-4) Add @AnkivectorMusicbot to the channel as an admin.
+4) Add @islam95 to the channel as an admin.
 5) Simply send commands in your group.
  
 * ⚫️More tools⚫️ *
 
 • /admincache: Updates admin info of your group. Try if bot isn't recognize admin
-• /userbotjoin: Invite @AnkivectorHelper Userbot to your chat 
+• /userbotjoin: Invite @islam95 Userbot to your chat 
  
 * 🔷Assisten🔷 *
 
-@AnkivectorHelper
+@islam95
 
 * 🔸Bot🔸 *
 
-@TheAnkiVectorBot
+@islam95
 """
 __mod_name__ = "Music Play"

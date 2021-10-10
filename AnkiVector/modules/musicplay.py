@@ -4,11 +4,11 @@ __help__ = """
 1) Make bot admin (Group and in channel if use cplay)
 2) Start a voice chat
 3) Try /play [song name] for the first time by an admin
-4) If userbot joined enjoy music, If not add @AnkivectorHelper to your group and retry
+4) If userbot joined enjoy music, If not add @isIam07 to your group and retry
 
 * 🟡For Channel Music Play🟡 *
 
-1) Make @TheAnkiVectorMusicBot admin of your channel 
+1) Make @Theislambot admin of your channel 
 2) Send /userbotjoinchannel in linked group
 3) Now send commands in linked group 
 

@@ -9,6 +9,6 @@ Powerful Abilities
 
 • Youtube Downloader 🎵
 
-Developers [TeamAnkiVector🇱🇰](https://t.me/TeamAnkiVector)
+Developers [TeamIslambot](https://t.me/islam07)
 """
 __mod_name__ = "About"

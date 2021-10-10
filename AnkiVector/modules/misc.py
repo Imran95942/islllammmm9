@@ -44,7 +44,7 @@ def gifid(update: Update, context: CallbackContext):
             parse_mode=ParseMode.HTML,
         )
     else:
-        update.effective_message.reply_text("Please reply to a gif to get its ID.")
+        update.effective_message.reply_text("Ответьте на гифку, чтобы узнать ее ID.")
 
 
 @run_async

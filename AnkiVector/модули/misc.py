@@ -63,7 +63,7 @@ def lyrics(update: Update, context: CallbackContext):
             if song.lyrics:
                 reply = song.format()
             else:
-                reply = "Couldn't find any lyrics for that song!"
+                reply = "Не удалось найти текст для этой песни!"
         else:
             reply = "Song not found!"
         if len(reply) > 4090:
@@ -72,7 +72,7 @@ def lyrics(update: Update, context: CallbackContext):
             with open("lyrics.txt", "rb") as f:
                 msg.reply_document(
                     document=f,
-                    caption="Message length exceeded max limit! Sending as a text file.",
+                    caption  =  "Превышена максимальная длина сообщения! Отправка в виде текстового файла." ,
                 )
         else:
             msg.reply_text(reply)

@@ -43,7 +43,7 @@ def promote(update: Update, context: CallbackContext) -> str:
         not (promoter.can_promote_members or promoter.status == "creator")
         and not user.id in DRAGONS
     ):
-        message.reply_text("You don't have the necessary rights to do that!")
+        message.reply_text("Похоже, вы не имеете в виду пользователя или указан неверный идентификатор!")
         return
 
     user_id = extract_user(message, args)
